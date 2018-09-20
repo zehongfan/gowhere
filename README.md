@@ -19,3 +19,5 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+在线预览按f12进入iphone7<a href="https://zehongfan.github.io/work/go-where-project/index.html#/">在线预览</a>
